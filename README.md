@@ -1,2 +1,1 @@
-# SHIHAB.py
-hshsh
+pkg update
